@@ -1,0 +1,10 @@
+# Raw datasets
+data/raw/
+
+# Temporary files
+*.tmp
+~$*
+
+# System files
+.DS_Store
+Thumbs.db
