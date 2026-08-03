@@ -1,0 +1,632 @@
+naics_description,license_count,share_of_total
+"Lessors of Residential Buildings and Dwellings",540,4.19
+"All Other Personal Services",461,3.57
+"Taxi and Ridesharing Services",418,3.24
+"All Other Transit and Ground Passenger Transportation",380,2.95
+"Offices of Mental Health Practitioners (except Physicians)",335,2.60
+"All Other Traveler Accommodation",329,2.55
+"Independent Artists, Writers, and Performers",284,2.20
+"All Other Miscellaneous Retailers",254,1.97
+"Administrative Management and General Management Consulting Services",246,1.91
+"Residential Remodelers",243,1.88
+"All Other Professional, Scientific, and Technical Services",239,1.85
+"Limited-Service Restaurants",204,1.58
+"Electrical Contractors and Other Wiring Installation Contractors",204,1.58
+"Full-Service Restaurants",184,1.43
+"Plumbing, Heating, and Air-Conditioning Contractors",181,1.40
+"New Single-Family Housing Construction (except For-Sale Builders)",174,1.35
+"Offices of All Other Miscellaneous Health Practitioners",174,1.35
+"Beauty Salons",170,1.32
+"Offices of Lawyers",164,1.27
+"Limousine Service",152,1.18
+"Custom Computer Programming Services",151,1.17
+"All Other Specialty Trade Contractors",143,1.11
+"Bed-and-Breakfast Inns",125,0.97
+"Offices of Real Estate Agents and Brokers",124,0.96
+"Child Care Services",121,0.94
+"Janitorial Services",118,0.91
+"Architectural Services",115,0.89
+"Residential Property Managers",110,0.85
+"Landscaping Services",104,0.81
+"Mobile Food Services",104,0.81
+"Clothing and Clothing Accessories Retailers",104,0.81
+"Graphic Design Services",102,0.79
+"Other Activities Related to Real Estate",99,0.77
+"Marketing Consulting Services",94,0.73
+"Other Individual and Family Services",93,0.72
+"Parking Lots and Garages",92,0.71
+"Other Management Consulting Services",89,0.69
+"Other Accounting Services",85,0.66
+"Engineering Services",73,0.57
+"Offices of Physicians (except Mental Health Specialists)",70,0.54
+"Painting and Wall Covering Contractors",68,0.53
+"Computer Systems Design Services",68,0.53
+"Commercial and Institutional Building Construction",63,0.49
+"Interior Design Services",62,0.48
+"All Other Miscellaneous Schools and Instruction",61,0.47
+"Other Personal Care Services",59,0.46
+"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)",59,0.46
+"Fitness and Recreational Sports Centers",59,0.46
+"Other Computer Related Services",58,0.45
+"Jewelry Retailers",56,0.43
+"All Other Amusement and Recreation Industries",54,0.42
+"Educational Support Services",54,0.42
+"Software Publishers",53,0.41
+"Photography Studios, Portrait",53,0.41
+"Used Merchandise Retailers",52,0.40
+Caterers,51,0.40
+"Other Scientific and Technical Consulting Services",51,0.40
+"Portfolio Management and Investment Advice",49,0.38
+"Motion Picture and Video Production",49,0.38
+"Offices of Physicians, Mental Health Specialists",49,0.38
+"Research and Development in Biotechnology (except Nanobiotechnology)",48,0.37
+"Offices of Dentists",47,0.36
+"Snack and Nonalcoholic Beverage Bars",46,0.36
+"Lessors of Nonresidential Buildings (except Miniwarehouses)",45,0.35
+"Other Personal and Household Goods Repair and Maintenance",45,0.35
+"Temporary Help Services",43,0.33
+"All Other General Merchandise Retailers",43,0.33
+"Drinking Places (Alcoholic Beverages)",41,0.32
+"Site Preparation Contractors",40,0.31
+"Insurance Agencies and Brokerages",40,0.31
+"Other Miscellaneous Nondurable Goods Merchant Wholesalers",40,0.31
+"Offices of Physical, Occupational and Speech Therapists, and Audiologists",39,0.30
+"Lessors of Other Real Estate Property",38,0.29
+"Drywall and Insulation Contractors",38,0.29
+"Gift, Novelty, and Souvenir Retailers",37,0.29
+"Electronics and Appliance Retailers",37,0.29
+"Barber Shops",36,0.28
+"Pet Care (except Veterinary) Services",36,0.28
+"Fine Arts Schools",33,0.26
+"Civic and Social Organizations",33,0.26
+"All Other Health and Personal Care Retailers",32,0.25
+"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",32,0.25
+"Commercial Banking",31,0.24
+"Finish Carpentry Contractors",31,0.24
+"Office Administrative Services",31,0.24
+"General Automotive Repair",30,0.23
+"Security Systems Services (except Locksmiths)",30,0.23
+"Promoters of Performing Arts, Sports, and Similar Events without Facilities",29,0.22
+"Poured Concrete Foundation and Structure Contractors",29,0.22
+"Musical Groups and Artists",29,0.22
+"Landscape Architectural Services",29,0.22
+"Other Social Advocacy Organizations",28,0.22
+"Roofing Contractors",28,0.22
+"Commercial Photography",28,0.22
+"Administration of Conservation Programs",28,0.22
+"Hotels (except Casino Hotels) and Motels",27,0.21
+"Convenience Retailers",27,0.21
+"Cosmetics, Beauty Supplies, and Perfume Retailers",27,0.21
+"Supermarkets and Other Grocery Retailers (except Convenience Retailers)",27,0.21
+"Elementary and Secondary Schools",27,0.21
+"New Multifamily Housing Construction (except For-Sale Builders)",26,0.20
+"Offices of Other Holding Companies",26,0.20
+"Sports and Recreation Instruction",26,0.20
+"All Other Miscellaneous Manufacturing",26,0.20
+"Wired Telecommunications Carriers",25,0.19
+"Food Service Contractors",25,0.19
+"Other Building Finishing Contractors",24,0.19
+"Art Dealers",24,0.19
+"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",23,0.18
+"General Freight Trucking, Local",23,0.18
+"Professional Organizations",22,0.17
+"Other Electronic Parts and Equipment Merchant Wholesalers",22,0.17
+Florists,22,0.17
+"Veterinary Services",22,0.17
+"Retail Bakeries",21,0.16
+"Offices of Chiropractors",21,0.16
+"Professional and Management Development Training",21,0.16
+"Human Resources Consulting Services",21,0.16
+"Security Guards and Patrol Services",21,0.16
+"Book Publishers",20,0.16
+"Nail Salons",20,0.16
+"Web Search Portals and All Other Information Services",20,0.16
+"Furniture Retailers",20,0.16
+"Business Associations",19,0.15
+"Advertising Agencies",19,0.15
+"Highway, Street, and Bridge Construction",19,0.15
+"Other General Government Support",19,0.15
+"All Other Specialty Food Retailers",18,0.14
+"Translation and Interpretation Services",18,0.14
+"Theater Companies and Dinner Theaters",17,0.13
+"Glass and Glazing Contractors",17,0.13
+"Employment Placement Agencies",17,0.13
+"Other Specialized Design Services",17,0.13
+"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",17,0.13
+"Home Health Care Services",17,0.13
+"Offices of Certified Public Accountants",16,0.12
+"Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance",16,0.12
+"Environmental Consulting Services",16,0.12
+"Jewelry and Silverware Manufacturing",16,0.12
+"Nonresidential Property Managers",15,0.12
+"New Housing For-Sale Builders",15,0.12
+"Masonry Contractors",15,0.12
+"Hobby, Toy, and Game Retailers",15,0.12
+"Book Retailers and News Dealers",15,0.12
+"Other Grocery and Related Products Merchant Wholesalers",15,0.12
+"Outpatient Mental Health and Substance Abuse Centers",15,0.12
+"All Other Business Support Services",15,0.12
+"Sporting Goods Retailers",15,0.12
+"Rooming and Boarding Houses, Dormitories, and Workers' Camps",14,0.11
+"Other Services to Buildings and Dwellings",14,0.11
+"Flooring Contractors",14,0.11
+"Drycleaning and Laundry Services (except Coin-Operated)",14,0.11
+"Gasoline Stations with Convenience Stores",14,0.11
+"Public Relations Agencies",14,0.11
+"All Other Home Furnishings Retailers",14,0.11
+"Miscellaneous Financial Investment Activities",13,0.10
+"Other Building Material Dealers",13,0.10
+"Pet and Pet Supplies Retailers",13,0.10
+"Industrial Machinery and Equipment Merchant Wholesalers",13,0.10
+"Motor Vehicle Towing",13,0.10
+"All Other Legal Services",13,0.10
+"Other Miscellaneous Durable Goods Merchant Wholesalers",13,0.10
+"Freight Transportation Arrangement",13,0.10
+"Other Heavy and Civil Engineering Construction",13,0.10
+"All Other Consumer Goods Rental",13,0.10
+"Credit Unions",13,0.10
+"Water and Sewer Line and Related Structures Construction",12,0.09
+"Used Car Dealers",12,0.09
+"Telecommunications Resellers",12,0.09
+"Building Inspection Services",12,0.09
+"All Other Miscellaneous Ambulatory Health Care Services",12,0.09
+"Commercial Bakeries",12,0.09
+"Car Washes",12,0.09
+"Child and Youth Services",12,0.09
+"Siding Contractors",12,0.09
+"Private Households",12,0.09
+"Exterminating and Pest Control Services",12,0.09
+"Power and Communication Line and Related Structures Construction",12,0.09
+"All Other Support Services",12,0.09
+"Finfish Fishing",12,0.09
+"Corporate, Subsidiary, and Regional Managing Offices",12,0.09
+"Other Services Related to Advertising",11,0.09
+"Roofing, Siding, and Insulation Material Merchant Wholesalers",11,0.09
+"Mortgage and Nonmortgage Loan Brokers",11,0.09
+"Apparel Accessories and Other Apparel Manufacturing",11,0.09
+"Other Commercial and Industrial Machinery and Equipment Rental and Leasing",11,0.09
+"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",11,0.09
+"Coffee and Tea Manufacturing",11,0.09
+"Commercial Printing (except Screen and Books)",11,0.09
+"Baked Goods Retailers",11,0.09
+"Grantmaking Foundations",10,0.08
+"Environment, Conservation and Wildlife Organizations",10,0.08
+"Services for the Elderly and Persons with Disabilities",10,0.08
+"Remediation Services",10,0.08
+"All Other Support Activities for Transportation",10,0.08
+"Other Professional Equipment and Supplies Merchant Wholesalers",10,0.08
+"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",10,0.08
+"Research and Development in the Social Sciences and Humanities",10,0.08
+"Carpet and Upholstery Cleaning Services",10,0.08
+"Industrial Building Construction",10,0.08
+"Other Chemical and Allied Products Merchant Wholesalers",10,0.08
+"New Car Dealers",10,0.08
+"Fish and Seafood Merchant Wholesalers",10,0.08
+"Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)",10,0.08
+"Drugs and Druggists' Sundries Merchant Wholesalers",10,0.08
+"Line-Haul Railroads",10,0.08
+"Tobacco, Electronic Cigarette, and Other Smoking Supplies Retailers",9,0.07
+"Sewing, Needlework, and Piece Goods Retailers",9,0.07
+"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",9,0.07
+"Assisted Living Facilities for the Elderly",9,0.07
+"Fabricated Structural Metal Manufacturing",9,0.07
+"Ornamental and Architectural Metal Work Manufacturing",9,0.07
+"Pottery, Ceramics, and Plumbing Fixture Manufacturing",9,0.07
+"Other Building Equipment Contractors",9,0.07
+"Clothing and Clothing Accessories Merchant Wholesalers",9,0.07
+"Document Preparation Services",9,0.07
+"Court Reporting and Stenotype Services",9,0.07
+"Industrial Design Services",9,0.07
+"Investment Banking and Securities Intermediation",9,0.07
+"Automotive Body, Paint, and Interior Repair and Maintenance",8,0.06
+"Lessors of Miniwarehouses and Self-Storage Units",8,0.06
+"All Other Publishers",8,0.06
+"Nonupholstered Wood Household Furniture Manufacturing",8,0.06
+"Other Construction Material Merchant Wholesalers",8,0.06
+"Tour Operators",8,0.06
+"Solid Waste Collection",8,0.06
+"Sporting and Recreational Goods and Supplies Merchant Wholesalers",8,0.06
+"Dance Companies",8,0.06
+"Computer and Computer Peripheral Equipment and Software Merchant Wholesalers",8,0.06
+"Other Performing Arts Companies",8,0.06
+"Sign Manufacturing",8,0.06
+"Floor Covering Retailers",8,0.06
+"Religious Organizations",8,0.06
+"Pharmacies and Drug Retailers",8,0.06
+"Automotive Parts and Accessories Retailers",8,0.06
+"Tile and Terrazzo Contractors",8,0.06
+"Promoters of Performing Arts, Sports, and Similar Events with Facilities",8,0.06
+"Reupholstery and Furniture Repair",8,0.06
+"Nursery, Garden Center, and Farm Supply Retailers",8,0.06
+"Passenger Car Rental",8,0.06
+"Office Machinery and Equipment Rental and Leasing",7,0.05
+"Industrial Supplies Merchant Wholesalers",7,0.05
+"Surveying and Mapping (except Geophysical) Services",7,0.05
+"Media Buying Agencies",7,0.05
+"Food (Health) Supplement Retailers",7,0.05
+"Wine and Distilled Alcoholic Beverage Merchant Wholesalers",7,0.05
+"Telemarketing Bureaus and Other Contact Centers",7,0.05
+"Hardware Merchant Wholesalers",7,0.05
+"Analytical Laboratory Instrument Manufacturing",7,0.05
+"Structural Steel and Precast Concrete Contractors",7,0.05
+"General Line Grocery Merchant Wholesalers",7,0.05
+"Local Messengers and Local Delivery",7,0.05
+"Home and Garden Equipment Repair and Maintenance",7,0.05
+"Other Support Activities for Road Transportation",7,0.05
+"Convention and Trade Show Organizers",7,0.05
+"Other Grantmaking and Giving Services",7,0.05
+"Miscellaneous Intermediation",7,0.05
+"Offices of Real Estate Appraisers",7,0.05
+"Sports Teams and Clubs",7,0.05
+"Monetary Authorities-Central Bank",7,0.05
+"Perishable Prepared Food Manufacturing",6,0.05
+"All Other Miscellaneous Fabricated Metal Product Manufacturing",6,0.05
+"Cafeterias, Grill Buffets, and Buffets",6,0.05
+"Office Supplies and Stationery Retailers",6,0.05
+"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",6,0.05
+"Furniture Merchant Wholesalers",6,0.05
+"Home Furnishing Merchant Wholesalers",6,0.05
+"Passenger Car Leasing",6,0.05
+"Wholesale Trade Agents and Brokers",6,0.05
+"Vending Machine Operators",6,0.05
+"Fruit and Vegetable Retailers",6,0.05
+"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",6,0.05
+"General Rental Centers",6,0.05
+"Couriers and Express Delivery Services",6,0.05
+"Used Household and Office Goods Moving",6,0.05
+"All Other Travel Arrangement and Reservation Services",6,0.05
+"Electronic and Precision Equipment Repair and Maintenance",6,0.05
+"Marketing Research and Public Opinion Polling",6,0.05
+"Process, Physical Distribution, and Logistics Consulting Services",6,0.05
+"Voluntary Health Organizations",6,0.05
+"Travel Agencies",6,0.05
+"Specialized Freight (except Used Goods) Trucking, Local",6,0.05
+"Stationery and Office Supplies Merchant Wholesalers",6,0.05
+"Savings Institutions and Other Depository Credit Intermediation",6,0.05
+"Other Residential Care Facilities",5,0.04
+"Coin-Operated Laundries and Drycleaners",5,0.04
+"Other Financial Vehicles",5,0.04
+"Meat Retailers",5,0.04
+"All Other Automotive Repair and Maintenance",5,0.04
+"Plumbing Fixture Fitting and Trim Manufacturing",5,0.04
+Locksmiths,5,0.04
+"Colleges, Universities, and Professional Schools",5,0.04
+"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers",5,0.04
+"Offices of Optometrists",5,0.04
+"Packaged Frozen Food Merchant Wholesalers",5,0.04
+"Framing Contractors",5,0.04
+"Other Direct Selling Establishments",5,0.04
+"Electroplating, Plating, Polishing, Anodizing, and Coloring",5,0.04
+"Exam Preparation and Tutoring",5,0.04
+"Human Rights Organizations",5,0.04
+"Administration of Education Programs",5,0.04
+"Grain and Field Bean Merchant Wholesalers",5,0.04
+Museums,5,0.04
+"All Other Miscellaneous Food Manufacturing",5,0.04
+"Beer, Wine, and Liquor Retailers",5,0.04
+"Sound Recording Studios",5,0.04
+Distilleries,4,0.03
+"Boat Building",4,0.03
+"Amusement Arcades",4,0.03
+"Surgical Appliance and Supplies Manufacturing",4,0.03
+"Cut and Sew Apparel Manufacturing (except Contractors)",4,0.03
+"General Freight Trucking, Long-Distance, Truckload",4,0.03
+"Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers",4,0.03
+"Diet and Weight Reducing Centers",4,0.03
+"Other Farm Product Raw Material Merchant Wholesalers",4,0.03
+"Wireless Telecommunications Carriers (except Satellite)",4,0.03
+"Tax Preparation Services",4,0.03
+"Trusts, Estates, and Agency Accounts",4,0.03
+"Other Commercial Equipment Merchant Wholesalers",4,0.03
+"Other Motion Picture and Video Industries",4,0.03
+"Teleproduction and Other Postproduction Services",4,0.03
+"Motion Picture Theaters (except Drive-Ins)",4,0.03
+"Computer Terminal and Other Computer Peripheral Equipment Manufacturing",4,0.03
+"Other Support Activities for Air Transportation",4,0.03
+"Footwear and Leather Goods Repair",4,0.03
+"Confectionery and Nut Retailers",4,0.03
+"Cut and Sew Apparel Contractors",4,0.03
+"Boat Dealers",4,0.03
+"Consumer Lending",4,0.03
+"All Other Miscellaneous Waste Management Services",4,0.03
+Wineries,4,0.03
+"Real Estate Credit",4,0.03
+"Support Activities for Forestry",4,0.03
+"Motor Vehicle Supplies and New Parts Merchant Wholesalers",4,0.03
+"Other Business Service Centers (including Copy Shops)",4,0.03
+"Drafting Services",4,0.03
+"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing",4,0.03
+"Private Mail Centers",4,0.03
+"All Other Miscellaneous Wood Product Manufacturing",4,0.03
+"Service Establishment Equipment and Supplies Merchant Wholesalers",4,0.03
+"Glass Product Manufacturing Made of Purchased Glass",4,0.03
+"Financial Transactions Processing, Reserve, and Clearinghouse Activities",4,0.03
+"Blood and Organ Banks",4,0.03
+"Tire and Tube Merchant Wholesalers",4,0.03
+"All Other Telecommunications",3,0.02
+"Blind and Shade Manufacturing",3,0.02
+"Sheet Metal Work Manufacturing",3,0.02
+"Record Production and Distribution",3,0.02
+Breweries,3,0.02
+"Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers",3,0.02
+"Doll, Toy, and Game Manufacturing",3,0.02
+"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",3,0.02
+"Railroad Rolling Stock Manufacturing",3,0.02
+"Appliance Repair and Maintenance",3,0.02
+"Brick, Stone, and Related Construction Material Merchant Wholesalers",3,0.02
+"Other Nonhazardous Waste Treatment and Disposal",3,0.02
+"Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers",3,0.02
+"All Other Miscellaneous Electrical Equipment and Component Manufacturing",3,0.02
+"Motorcycle, ATV, and All Other Motor Vehicle Dealers",3,0.02
+"All Other Plastics Product Manufacturing",3,0.02
+"Apprenticeship Training",3,0.02
+"Dental Laboratories",3,0.02
+"Pharmaceutical Preparation Manufacturing",3,0.02
+"Hardware Retailers",3,0.02
+"All Other Miscellaneous Textile Product Mills",3,0.02
+"Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing",3,0.02
+"Recyclable Material Merchant Wholesalers",3,0.02
+"International, Secondary Market, and All Other Nondepository Credit Intermediation",3,0.02
+"Shoe Retailers",3,0.02
+"Sales Financing",3,0.02
+"Office Equipment Merchant Wholesalers",3,0.02
+"Testing Laboratories and Services",3,0.02
+"Motor Vehicle Body Manufacturing",3,0.02
+"Emergency and Other Relief Services",3,0.02
+"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",3,0.02
+"All Other Outpatient Care Centers",3,0.02
+"Ship Building and Repairing",3,0.02
+"Medicinal and Botanical Manufacturing",3,0.02
+"Metal Service Centers and Other Metal Merchant Wholesalers",3,0.02
+"Computer Facilities Management Services",3,0.02
+"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables",3,0.02
+"Claims Adjusting",3,0.02
+"Confectionery Manufacturing from Purchased Chocolate",3,0.02
+"Other Basic Inorganic Chemical Manufacturing",3,0.02
+"Other Community Housing Services",3,0.02
+"Other Leather and Allied Product Manufacturing",3,0.02
+"Geophysical Surveying and Mapping Services",3,0.02
+"All Other Insurance Related Activities",3,0.02
+"Other Technical and Trade Schools",3,0.02
+"Toilet Preparation Manufacturing",3,0.02
+"Fresh Fruit and Vegetable Merchant Wholesalers",3,0.02
+"General Warehousing and Storage",3,0.02
+"Offices of Notaries",3,0.02
+"Other Sound Recording Industries",3,0.02
+"Luggage and Leather Goods Retailers",3,0.02
+"Family Planning Centers",3,0.02
+"Soil Preparation, Planting, and Cultivating",3,0.02
+"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing",3,0.02
+"Electromedical and Electrotherapeutic Apparatus Manufacturing",3,0.02
+"Oil and Gas Pipeline and Related Structures Construction",2,0.02
+"Automobile Driving Schools",2,0.02
+"Administration of General Economic Programs",2,0.02
+"Bowling Centers",2,0.02
+"Other Animal Food Manufacturing",2,0.02
+"Media Representatives",2,0.02
+"Other Foundation, Structure, and Building Exterior Contractors",2,0.02
+"Power Boiler and Heat Exchanger Manufacturing",2,0.02
+Logging,2,0.02
+"Commodity Contracts Intermediation",2,0.02
+"Gasket, Packing, and Sealing Device Manufacturing",2,0.02
+"Offices of Podiatrists",2,0.02
+"Other Communications Equipment Manufacturing",2,0.02
+"Seafood Product Preparation and Packaging",2,0.02
+"Special Needs Transportation",2,0.02
+"Credit Card Issuing",2,0.02
+"Window Treatment Retailers",2,0.02
+"Computer Training",2,0.02
+"Industrial and Personal Service Paper Merchant Wholesalers",2,0.02
+"Sporting and Athletic Goods Manufacturing",2,0.02
+"Rendering and Meat Byproduct Processing",2,0.02
+Marinas,2,0.02
+"Musical Instrument Manufacturing",2,0.02
+"Farm Supplies Merchant Wholesalers",2,0.02
+"Land Subdivision",2,0.02
+"Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers",2,0.02
+"Scheduled Passenger Air Transportation",2,0.02
+"Indoor and Outdoor Display Advertising",2,0.02
+"Fish and Seafood Retailers",2,0.02
+"Iron and Steel Pipe and Tube Manufacturing from Purchased Steel",2,0.02
+"Other Noncitrus Fruit Farming",2,0.02
+"Automotive Glass Replacement Shops",2,0.02
+"Fruit and Vegetable Canning",2,0.02
+"Medical Laboratories",2,0.02
+"All Other Miscellaneous Crop Farming",2,0.02
+"Music Publishers",2,0.02
+"RV (Recreational Vehicle) Parks and Campgrounds",2,0.02
+"All Other Basic Organic Chemical Manufacturing",2,0.02
+"Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)",2,0.02
+"Office Supplies (except Paper) Manufacturing",2,0.02
+"Curtain and Linen Mills",2,0.02
+"Other Direct Insurance (except Life, Health, and Medical) Carriers",2,0.02
+"Periodical Publishers",2,0.02
+"Paper Bag and Coated and Treated Paper Manufacturing",2,0.02
+"Community Food Services",2,0.02
+"Inland Water Passenger Transportation",2,0.02
+"Tobacco Product and Electronic Cigarette Merchant Wholesalers",2,0.02
+"Other Spectator Sports",2,0.02
+"Other Gambling Industries",2,0.02
+"Floriculture Production",2,0.02
+"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing",2,0.02
+"All Other Grain Farming",2,0.02
+"Electric Power Distribution",2,0.02
+"Custom Architectural Woodwork and Millwork Manufacturing",2,0.02
+"Commercial and Service Industry Machinery Manufacturing",2,0.02
+"Paint, Varnish, and Supplies Merchant Wholesalers",2,0.02
+"Scenic and Sightseeing Transportation, Water",2,0.02
+"Soap and Other Detergent Manufacturing",2,0.02
+"Other Vegetable (except Potato) and Melon Farming",2,0.02
+"Motion Picture and Video Distribution",2,0.02
+"Diagnostic Imaging Centers",2,0.02
+"Book, Periodical, and Newspaper Merchant Wholesalers",2,0.02
+"Conveyor and Conveying Equipment Manufacturing",2,0.02
+"Soft Drink Manufacturing",2,0.02
+"Paint and Wallpaper Retailers",2,0.02
+"Wood Window and Door Manufacturing",2,0.02
+"Other Measuring and Controlling Device Manufacturing",2,0.02
+"Direct Property and Casualty Insurance Carriers",2,0.02
+"Payroll Services",2,0.02
+"Textile Bag and Canvas Mills",2,0.02
+"Upholstered Household Furniture Manufacturing",2,0.02
+"Broadwoven Fabric Mills",2,0.02
+"Professional Employer Organizations",2,0.02
+Apiculture,2,0.02
+"Dog and Cat Food Manufacturing",2,0.02
+"Confectionery Merchant Wholesalers",2,0.02
+"Institutional Furniture Manufacturing",2,0.02
+"Radio Broadcasting Stations",2,0.02
+"Toy and Hobby Goods and Supplies Merchant Wholesalers",2,0.02
+"Amusement and Theme Parks",2,0.02
+"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing",2,0.02
+"Solar Electric Power Generation",2,0.02
+"Iron and Steel Forging",2,0.02
+"Language Schools",2,0.02
+"Golf Courses and Country Clubs",2,0.02
+"Farm and Garden Machinery and Equipment Merchant Wholesalers",2,0.02
+"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",2,0.02
+"Water Supply and Irrigation Systems",2,0.02
+"Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills",2,0.02
+"Other Waste Collection",2,0.02
+"Facilities Support Services",1,0.01
+"Specialized Automotive Repair",1,0.01
+"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",1,0.01
+"Beer and Ale Merchant Wholesalers",1,0.01
+"In-Vitro Diagnostic Substance Manufacturing",1,0.01
+"International Affairs",1,0.01
+"Deep Sea Freight Transportation",1,0.01
+"Textile and Fabric Finishing Mills",1,0.01
+"Septic Tank and Related Services",1,0.01
+"Construction Sand and Gravel Mining",1,0.01
+"Direct Life Insurance Carriers",1,0.01
+"Other Urban Transit Systems",1,0.01
+"Plate Work Manufacturing",1,0.01
+"Poultry Processing",1,0.01
+"Elevator and Moving Stairway Manufacturing",1,0.01
+"Artificial and Synthetic Fibers and Filaments Manufacturing",1,0.01
+"Electronic Shopping",1,0.01
+"Spice and Extract Manufacturing",1,0.01
+"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)",1,0.01
+"Hazardous Waste Collection",1,0.01
+"Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals",1,0.01
+"Plastics Plumbing Fixture Manufacturing",1,0.01
+"Ambulance Services",1,0.01
+"Support Activities for Printing",1,0.01
+"Wood Preservation",1,0.01
+"Tire Dealers",1,0.01
+"Temporary Shelters",1,0.01
+"Labor Unions and Similar Labor Organizations",1,0.01
+"Aluminum Sheet, Plate, and Foil Manufacturing",1,0.01
+"Farm Management Services",1,0.01
+"Packing and Crating",1,0.01
+"Scenic and Sightseeing Transportation, Other",1,0.01
+"Other Support Activities for Water Transportation",1,0.01
+"Fabricated Pipe and Pipe Fitting Manufacturing",1,0.01
+"Leather and Hide Tanning and Finishing",1,0.01
+"Breakfast Cereal Manufacturing",1,0.01
+"Credit Bureaus",1,0.01
+"Showcase, Partition, Shelving, and Locker Manufacturing",1,0.01
+"Collection Agencies",1,0.01
+"Linen Supply",1,0.01
+"Interurban and Rural Bus Transportation",1,0.01
+"Other Activities Related to Credit Intermediation",1,0.01
+"Residential Mental Health and Substance Abuse Facilities",1,0.01
+"Marine Cargo Handling",1,0.01
+"Newspaper Publishers",1,0.01
+"Greeting Card Publishers",1,0.01
+"Metal Crown, Closure, and Other Metal Stamping (except Automotive)",1,0.01
+"Nonchocolate Confectionery Manufacturing",1,0.01
+"Pharmacy Benefit Management and Other Third Party Administration of Insurance and Pension Funds",1,0.01
+"Biological Product (except Diagnostic) Manufacturing",1,0.01
+"Executive Search Services",1,0.01
+"Ophthalmic Goods Manufacturing",1,0.01
+"Carbon and Graphite Product Manufacturing",1,0.01
+"Other Snack Food Manufacturing",1,0.01
+"Reinsurance Carriers",1,0.01
+"Recreational Vehicle Dealers",1,0.01
+"Travel Trailer and Camper Manufacturing",1,0.01
+"Power, Distribution, and Specialty Transformer Manufacturing",1,0.01
+"Consumer Electronics and Appliances Rental",1,0.01
+"Plastics Bottle Manufacturing",1,0.01
+"Drilling Oil and Gas Wells",1,0.01
+"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",1,0.01
+"Glass Container Manufacturing",1,0.01
+"Commercial Screen Printing",1,0.01
+"Legal Counsel and Prosecution",1,0.01
+"Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing",1,0.01
+"Pesticide and Other Agricultural Chemical Manufacturing",1,0.01
+"Hardwood Veneer and Plywood Manufacturing",1,0.01
+"Custom Compounding of Purchased Resins",1,0.01
+"Other Warehousing and Storage",1,0.01
+"Cement Manufacturing",1,0.01
+"Trust, Fiduciary, and Custody Activities",1,0.01
+"Nonscheduled Chartered Passenger Air Transportation",1,0.01
+"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing",1,0.01
+"Telephone Apparatus Manufacturing",1,0.01
+"Adhesive Manufacturing",1,0.01
+"Dairy Product (except Dried or Canned) Merchant Wholesalers",1,0.01
+"All Other Miscellaneous Nonmetallic Mineral Product Manufacturing",1,0.01
+"Relay and Industrial Control Manufacturing",1,0.01
+"Printing and Writing Paper Merchant Wholesalers",1,0.01
+"Junior Colleges",1,0.01
+"Support Activities for Oil and Gas Operations",1,0.01
+"Funeral Homes and Funeral Services",1,0.01
+"Books Printing",1,0.01
+"Scenic and Sightseeing Transportation, Land",1,0.01
+"Totalizing Fluid Meter and Counting Device Manufacturing",1,0.01
+"Oil and Gas Field Machinery and Equipment Manufacturing",1,0.01
+"Direct Mail Advertising",1,0.01
+"Saw Blade and Handtool Manufacturing",1,0.01
+"Cut Stock, Resawing Lumber, and Planing",1,0.01
+"Support Activities for Rail Transportation",1,0.01
+"Petroleum Refineries",1,0.01
+"Farm Product Warehousing and Storage",1,0.01
+"Construction Machinery Manufacturing",1,0.01
+"Nursery and Tree Production",1,0.01
+"Iron and Steel Mills and Ferroalloy Manufacturing",1,0.01
+"Ophthalmic Goods Merchant Wholesalers",1,0.01
+"Surgical and Medical Instrument Manufacturing",1,0.01
+"Flat Glass Manufacturing",1,0.01
+"Roasted Nuts and Peanut Butter Manufacturing",1,0.01
+"Meat and Meat Product Merchant Wholesalers",1,0.01
+"Solid Waste Landfill",1,0.01
+"Mineral Wool Manufacturing",1,0.01
+"Musical Instrument and Supplies Retailers",1,0.01
+"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",1,0.01
+"Inland Water Freight Transportation",1,0.01
+"Mushroom Production",1,0.01
+"Photographic Equipment and Supplies Merchant Wholesalers",1,0.01
+"Open-End Investment Funds",1,0.01
+"Hardware Manufacturing",1,0.01
+"Heating Equipment (except Warm Air Furnaces) Manufacturing",1,0.01
+"Department Stores",1,0.01
+"Machine Shops",1,0.01
+"Motor Vehicle Parts (Used) Merchant Wholesalers",1,0.01
+"Petroleum Bulk Stations and Terminals",1,0.01
+"Packaging Machinery Manufacturing",1,0.01
+"Photographic Film, Paper, Plate, Chemical, and Copy Toner Manufacturing",1,0.01
+"Metal Window and Door Manufacturing",1,0.01
+"Frozen Cakes, Pies, and Other Pastries Manufacturing",1,0.01
+"Berry (except Strawberry) Farming",1,0.01
+"Coastal and Great Lakes Freight Transportation",1,0.01
+"Navigational Services to Shipping",1,0.01
+"Natural Gas Distribution",1,0.01
+"Aircraft Manufacturing",1,0.01
+"Armored Car Services",1,0.01
+"Prefabricated Metal Building and Component Manufacturing",1,0.01
+"Recreational and Vacation Camps (except Campgrounds)",1,0.01
+"Footwear Merchant Wholesalers",1,0.01
+"Administration of Public Health Programs",1,0.01
+"Packaging and Labeling Services",1,0.01
+"Administration of Air and Water Resource and Solid Waste Management Programs",1,0.01
+"Title Abstract and Settlement Offices",1,0.01
+"Cookie and Cracker Manufacturing",1,0.01
+"Cut Stone and Stone Product Manufacturing",1,0.01
+"Battery Manufacturing",1,0.01
+"Machine Tool Manufacturing",1,0.01
+"Crushed and Broken Limestone Mining and Quarrying",1,0.01
+"Wood Kitchen Cabinet and Countertop Manufacturing",1,0.01
+"Gypsum Product Manufacturing",1,0.01
+"Dried and Dehydrated Food Manufacturing",1,0.01
+"Paint and Coating Manufacturing",1,0.01
+"Direct Health and Medical Insurance Carriers",1,0.01
