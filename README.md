@@ -6,11 +6,18 @@ This project analyzes Seattle active business license data to understand the cit
 
 ## Project Status
 
-Project setup in progress.
+SQL analysis, Excel validation, and the interactive Tableau dashboard are complete. Final insights and documentation are in progress.
 
 ## Tools
 
-- SQL
+- MySQL
 - Excel
-- IBM Cognos Analytics
-- GitHub
+- Tableau Public
+
+## Interactive Tableau Dashboard
+
+[Open the interactive Tableau dashboard](https://public.tableau.com/views/seattle_business_license_dashboard/SeattleBusinessLicenseDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[![Seattle Business License Dashboard](images/tableau_dashboard.png)](https://public.tableau.com/views/seattle_business_license_dashboard/SeattleBusinessLicenseDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+The dashboard is based on a City of Seattle Open Data snapshot downloaded on August 2, 2026. The 2026 license-start total is partial through that date.
