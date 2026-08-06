@@ -26,11 +26,9 @@ The dashboard is based on a City of Seattle Open Data snapshot downloaded on Aug
 
 ## How to Explore This Project
 
-1. Open the interactive Tableau dashboard for a visual overview.
-2. Review the Executive Summary and Key Findings in this README.
-3. Open the Excel workbook to see validation tables, charts, and the PivotTable.
-4. Review the SQL scripts to follow the data-cleaning and analysis process.
-5. Explore the processed CSV exports used to support the dashboard.
+1. Review the Executive Summary and Key Findings in this README.
+2. Open the interactive Tableau dashboard for a visual overview.
+3. Optional: Review the supporting analysis in the [`sql/`](sql/) folder, the Excel validation workbook in [`excel/`](excel/), and the processed CSV files in [`data/processed/`](data/processed/).
 
 ## Executive Summary
 
@@ -38,189 +36,104 @@ This project analyzes 12,897 active business-license records from the City of Se
 
 The results show that Seattle’s active business landscape is highly diverse. No single industry dominates the dataset, and the five largest industries account for only 16.55% of all records. License starts increased substantially between 2022 and 2025, while sole proprietorships, corporations, and limited liability companies represent most ownership structures.
 
-The dataset is a snapshot downloaded on August 2, 2026. Therefore, 2026 results are partial and should not be directly compared with complete calendar years.
-
 ## Key Findings
 
-- The dataset contains 12,897 active license records representing 11,659 unique UBI numbers.
-- 8,805 records, or 68.27%, have a Seattle business address.
-- The average business age is 11.31 years.
-- License starts increased from 729 in 2022 to 1,057 in 2025, a 45% increase.
-- The five largest industries account for 2,134 records, or 16.55% of the dataset, indicating broad industry diversity.
-- Sole proprietorship is the largest ownership type with 3,283 records, followed by corporations with 3,099.
-- The four largest ownership categories account for 91.51% of all license records.
-- ZIP code 98103 has the highest concentration of Seattle-address records with 688 licenses.
-- The top five Seattle ZIP codes account for 30.28% of Seattle-address license records.
-- Twenty-one future-dated records were excluded from the business-age distribution.
+- **Industry diversity:** No single industry dominates the active-license landscape. The five largest industries account for only 16.55% of all records.
+
+- **License-start trend:** License starts among active records increased from 729 in 2022 to 1,057 in 2025, representing a 45% increase over the period.
+
+- **Ownership concentration:** Sole proprietorships, corporations, single-member LLCs, and multi-member LLCs together account for 91.51% of all license records.
+
+- **Geographic concentration:** The five leading Seattle ZIP codes contain 30.28% of Seattle-address records, with ZIP code 98103 ranking first at 688 records.
+
+- **Business-age distribution:** The average record age is 11.31 years. About 60% of non-future-dated records fall within the first ten years, while roughly 40% are more than ten years old, showing representation from both newer and long-established license holders.
 
 ## Recommendations
 
-- Continue tracking annual license starts to determine whether the growth observed from 2022 through 2025 represents a lasting trend or a temporary increase.
-- Use ZIP-level patterns to identify neighborhoods with strong business activity and areas that may benefit from additional outreach, technical assistance, or small-business resources.
-- Segment business-support programs by ownership structure because sole proprietorships, corporations, and LLCs may have different financing, compliance, and growth needs.
-- Avoid focusing support on only the largest industries. The top five industries represent just 16.55% of records, so broad and flexible business-development programs may serve the city better than narrowly targeted initiatives.
-- Review future-dated and incomplete records before using the dataset for operational decisions or automated reporting.
+- **Industry diversity suggests broad support is more appropriate than narrow targeting.** Because the five largest industries account for only 16.55% of active license records, business-support programs should remain flexible enough to serve a wide range of industries rather than concentrating resources on only a few sectors.
+
+- **Ownership concentration supports differentiated assistance.** Sole proprietorships, corporations, and LLCs account for most license records, so outreach and support could be tailored to their different compliance, financing, and operational needs.
+
+- **Geographic concentration can guide where outreach occurs, independent of industry focus.** The five leading Seattle ZIP codes contain 30.28% of Seattle-address records, with 98103 ranking first at 688 records. ZIP-level patterns could help prioritize outreach locations while maintaining broad support across industries.
+
+- **Recent license-start growth should be monitored cautiously.** License starts among currently active records increased 45% from 2022 to 2025, but additional years of data are needed to determine whether this reflects a sustained pattern rather than a temporary increase.
 
 ## Limitations
 
-- The dataset is a snapshot downloaded on August 2, 2026 and does not update automatically.
-- The 2026 license-start count is partial and should not be compared directly with complete calendar years.
-- A license record does not necessarily represent a unique business because one organization may have multiple accounts or locations.
-- Business address does not always indicate where customers, employees, or business activity are concentrated.
-- Industry classifications may be broad, outdated, or self-reported.
-- Twenty-one future-dated records were identified, and six missing NAICS descriptions required review or cleaning.
-- The analysis describes patterns in active license records but does not measure business revenue, employment, survival, profitability, or economic impact.
+- The dataset is a snapshot downloaded on August 2, 2026, so it does not update automatically. The 2026 license-start count is also partial and should not be compared directly with complete calendar years.
+
+- A license record does not necessarily represent a unique business because one organization may have multiple accounts, locations, or records.
+
+- Business addresses and industry classifications are imperfect proxies: addresses may not reflect where customers, employees, or activity are concentrated, while NAICS categories may be broad, outdated, self-reported, or incomplete. The dataset also included 21 future-dated records and six missing NAICS descriptions that required review.
+
+- The analysis describes licensing patterns but does not measure revenue, employment, profitability, survival, or economic impact.
 
 ## Business Questions
 
-This project explores the following questions:
+This project focuses on five questions:
 
-1. How many active business-license records are included in the dataset, and how many represent unique UBI numbers?
-2. What share of active license records have a Seattle business address?
-3. How have license starts changed over time?
-4. Which industries account for the largest number of active license records?
-5. Which ownership structures are most common?
-6. How are active licenses distributed across business-age groups?
-7. Which Seattle ZIP codes have the highest concentration of active license records?
-8. What data-quality issues or limitations should be considered when interpreting the results?
+1. How have active license starts changed over time?
+2. Which industries and ownership structures account for the largest share of active license records?
+3. How are active licenses distributed across business-age groups?
+4. Which Seattle ZIP codes have the highest concentration of active license records?
+5. What data-quality and scope limitations affect how the results should be interpreted?
 
 ## Data Source
 
-The data was obtained from the City of Seattle Open Data portal and contains active Seattle Business License Tax Certificate records.
-
-- Snapshot download date: August 2, 2026
+- Source: City of Seattle Open Data portal
+- Dataset: Active Business License Tax Certificate records
+- Snapshot date: August 2, 2026
 - Records analyzed: 12,897
 - Unique UBI numbers: 11,659
-- Geographic scope: Businesses with both Seattle and non-Seattle addresses included in the active-license dataset
-- Reporting note: License-start results for 2026 are partial through August 2, 2026
-
-The raw source file is not stored in this repository. Processed summary files and the analysis workbook are included for reproducibility and portfolio review.
+- Scope: Includes license records with both Seattle and non-Seattle addresses
+- Note: 2026 license-start results are partial through August 2
 
 ## Data Preparation and Validation
 
-The dataset was imported into MySQL and reviewed before analysis. The preparation process included:
-
-- Verifying the number of imported records
-- Reviewing missing values across important fields
-- Checking City Account Numbers and UBI numbers for duplicate patterns
-- Standardizing field names and formats
-- Converting license-start values into usable date and year fields
-- Creating business-age calculations and age-group categories
-- Identifying 21 records with future license-start dates
-- Filling six missing NAICS descriptions after reviewing their NAICS codes
-- Creating Seattle-address indicators and standardized five-digit ZIP-code fields
-- Comparing final SQL results with Excel validation totals
-
-The cleaned analysis table retained all 12,897 source records. Future-dated records were flagged rather than deleted so the issue remained transparent.
+- **Validated import integrity:** Confirmed record counts, reviewed City Account Numbers and UBI numbers for duplicate patterns, and standardized field names and formats.
+- **Built time-based fields:** Converted license-start values into date and year fields and calculated business age and age-group categories.
+- **Resolved data-quality issues:** Flagged 21 future-dated records and filled six missing NAICS descriptions after reviewing their codes.
+- **Standardized geography:** Created Seattle-address indicators and standardized five-digit ZIP-code fields.
+- **Cross-validated results:** Compared final SQL outputs with Excel totals before building the Tableau dashboard.
 
 ## Analysis Workflow
 
 ### MySQL
 
-MySQL was used to:
-
-- Inspect the imported data
-- Identify missing and unusual values
-- Clean and standardize fields
-- Create calculated fields
-- Perform exploratory analysis
-- Calculate summary metrics
-- Export analysis-ready files for Excel and Tableau
+- Created calculated fields for license-start year, business age, age groups, Seattle-address status, and standardized ZIP codes.
+- Ran grouped analyses across time, industry, ownership type, geography, and business age.
+- Produced validated summary tables and analysis-ready exports for Excel and Tableau.
 
 ### Excel
 
-Excel was used to:
-
-- Validate key SQL totals
-- Create a KPI summary
-- Review historical, industry, ownership, geographic, and age-group results
-- Build charts and a PivotTable
-- Confirm that spreadsheet results matched the SQL output
+- Cross-validated key SQL totals and reviewed data-quality results.
+- Built a KPI summary, charts, and an ownership-by-age PivotTable.
+- Used the workbook as a secondary validation layer before dashboard development.
 
 ### Tableau Public
 
-Tableau Public was used to create an interactive dashboard containing:
+Built and published an interactive dashboard highlighting:
 
-- Total active license records
-- Seattle-address records and share
-- Average business age
-- Annual license-start trends
-- Top industries
-- Ownership structures
-- Business-age groups
+- License-start trends
+- Industry and ownership patterns
+- Business-age distribution
 - Seattle ZIP-code concentration
 
-The published visualization allows users to explore the results through interactive selections and tooltips.
-
-## Repository Structure
-
-```text
-seattle-business-license-analysis/
-│
-├── dashboard/
-│   └── seattle_business_license_dashboard.twbx
-│
-├── data/
-│   ├── raw/
-│   │   └── Raw source file excluded from Git
-│   └── processed/
-│       ├── business_licenses_analysis.csv
-│       ├── export_age_groups.csv
-│       ├── export_industry_summary.csv
-│       ├── export_kpis.csv
-│       ├── export_ownership_summary.csv
-│       ├── export_yearly_trends.csv
-│       └── export_zip_summary.csv
-│
-├── excel/
-│   └── seattle_business_license_analysis.xlsx
-│
-├── images/
-│   └── tableau_dashboard.png
-│
-├── sql/
-│   ├── 01_initial_checks.sql
-│   ├── 02_data_quality.sql
-│   ├── 03_cleaning.sql
-│   ├── 04_exploration.sql
-│   ├── 05_summary_metrics.sql
-│   ├── 06_business_insights.sql
-│   ├── 07_validation.sql
-│   ├── 08_analysis_table.sql
-│   └── 09_dashboard_exports.sql
-│
-├── .gitignore
-└── README.md
-
-```
 ## Tools and Skills Demonstrated
 
-- MySQL
-- SQL data cleaning and exploratory analysis
-- Aggregate functions and grouped analysis
-- Common table expressions and calculated fields
-- Data-quality validation
-- Microsoft Excel
-- PivotTables
-- Tableau Public
-- Interactive dashboard design
-- Data visualization and storytelling
-- Git and GitHub
-- Business-oriented recommendations
-- Technical documentation
+- **SQL:** Data cleaning, exploratory analysis, grouped queries, CTEs, calculated fields, and data-quality validation
+- **Excel:** KPI summaries, PivotTables, charts, and cross-validation of SQL results
+- **Tableau:** Interactive dashboard design, geographic visualization, and data storytelling
+- **Analysis & Communication:** Segmentation insights, business recommendations, methodology, and limitations
 
 ## Project Deliverables
 
 - SQL scripts for data inspection, cleaning, analysis, and dashboard exports
-- Processed analysis datasets
+- Processed datasets and summary files
 - Excel validation and analysis workbook
-- Published interactive Tableau dashboard
-- Tableau packaged workbook
-- Dashboard image for portfolio viewing
+- Published interactive Tableau dashboard and packaged workbook
 - Written findings, recommendations, methodology, and limitations
 
 ## Author
 
-Mai Nguyen
-
-Mathematics student developing skills in data analytics, business intelligence, SQL, Excel, and data visualization.
+Mai Nguyen — Mathematics student building data analytics and business intelligence skills through hands-on projects in SQL, Excel, and Tableau.
