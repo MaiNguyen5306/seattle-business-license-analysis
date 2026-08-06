@@ -192,7 +192,6 @@ seattle-business-license-analysis/
 ├── .gitignore
 └── README.md
 
-```markdown
 ## Tools and Skills Demonstrated
 
 - MySQL
